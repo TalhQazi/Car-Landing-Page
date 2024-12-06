@@ -1,0 +1,39 @@
+body.boxes-bg-from {
+  background-color: #f8f9fa; /* Light gray background */
+}
+
+.bg-white {
+  background-color: rgb(112, 0, 0);
+}
+
+.success-message img {
+  margin-bottom: 20px;
+}
+
+.success-message h2 {
+  color: #28a745; /* Success green */
+}
+
+.info-table {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0;
+}
+
+.info-table h6 {
+  font-weight: bold;
+}
+
+.info-table p {
+  margin: 0;
+}
+
+.footer {
+  background-color: #7f1818; /* Light footer */
+  padding: 15px 0;
+}
+
+.btn-call {
+  background-color: #007bff; /* Bootstrap primary color */
+  color: white;
+}
